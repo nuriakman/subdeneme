@@ -1,0 +1,6 @@
+[submodule "test"]
+	path = test
+	url = git@github.com:nuriakman/test.git
+[submodule "notlar"]
+	path = notlar
+	url = git@github.com:nuriakman/notlar.git
