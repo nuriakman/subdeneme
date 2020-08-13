@@ -4,3 +4,6 @@
 [submodule "notlar"]
 	path = notlar
 	url = git@github.com:nuriakman/notlar.git
+[submodule "laravel"]
+	path = laravel
+	url = git@github.com:nuriakman/laravel.git
